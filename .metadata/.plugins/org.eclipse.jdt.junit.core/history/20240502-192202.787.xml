@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner (1)" project="APIFramework" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.Options.TestRunner" time="5.959">
+    <testsuite name="Validating Place API's" time="5.959">
+      <testcase name="Verify if Place is being Successfully add using AddPlaceAPI #1" classname="Validating Place API's" time="3.659"/>
+      <testcase name="Verify if Place is being Successfully add using AddPlaceAPI #2" classname="Validating Place API's" time="2.3"/>
+    </testsuite>
+  </testsuite>
+</testrun>

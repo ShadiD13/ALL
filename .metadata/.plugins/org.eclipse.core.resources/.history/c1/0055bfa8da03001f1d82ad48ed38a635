@@ -1,0 +1,13 @@
+package pojo;
+
+public class GetCourcse {
+	
+	private String url;
+	private String services;
+	private String experties;
+	private String courses;
+	private String constructor;
+	private String linkedin;
+	
+
+}

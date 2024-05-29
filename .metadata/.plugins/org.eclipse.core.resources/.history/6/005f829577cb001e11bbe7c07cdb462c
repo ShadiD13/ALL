@@ -1,0 +1,11 @@
+
+public class Tables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver",  "D:/SHADI_TEST/Software/WebDriver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+
+	}
+
+}
