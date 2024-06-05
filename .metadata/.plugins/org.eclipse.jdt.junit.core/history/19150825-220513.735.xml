@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="bankAlEtihadECC.tests.OutwardChequesTest" tests="2" started="2" failures="0" errors="0" ignored="1">
-  <testsuite name="bankAlEtihadECC.tests.OutwardChequesTest" time="43.255">
-    <testcase name="outwardChequesTest" classname="bankAlEtihadECC.tests.OutwardChequesTest" time="43.255"/>
-    <testcase name="repairCheques" classname="bankAlEtihadECC.tests.OutwardChequesTest" ignored="true"/>
-  </testsuite>
-</testrun>

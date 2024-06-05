@@ -1,4 +1,0 @@
-java.lang.NullPointerException: Cannot invoke "io.restassured.specification.RequestSpecification.when()" because "this.res" is null
-	at stepDefinitions.StepDefinition.user_calls_with_post_http_request(StepDefinition.java:57)
-	at ?.user calls "AddPlaceAPI" with Post Http request(file:///C:/Users/Administrator/eclipse-workspace/APIFramework/src/test/java/features/placeValidations.feature:5)
-
